@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.imgur.com/h0yWygu.png" alt="banner-presentation">
 
-## Let me introduce myself
+## Let me introduce myself 
 
 I have always lived among letters and fantastical worlds. Previously, I sought to understand the world, but I decided it was better to understand myself.
 
@@ -16,7 +16,7 @@ And I always remind myself that sometimes, in order to move forward, it is neces
 
 <img align="right" width="450px" src="https://i.imgur.com/09hCway.png" alt="github-avatar">
 
-## About me
+## About me 🌙
 
 - 🧠💻 Mind curious about technology and culture.
 - 👩🏻‍💻📝 Autodidact.
