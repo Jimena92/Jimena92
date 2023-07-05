@@ -1,16 +1,20 @@
 <div align="center">
 <h2 align="center">Hey! Welcome 👋</h2> 
 </div>
-<img src="https://i.imgur.com/tLowcCm.png" alt="banner-presentation">
+<img src="https://i.imgur.com/h0yWygu.png" alt="banner-presentation">
 
-## Let me introduce my self
+## Let me introduce myself
+
 I have always lived among letters and fantastical worlds. Previously, I sought to understand the world, but I decided it was better to understand myself.
 
 I studied Tourism, but life led me to the world of bookstores and publishing for almost eight years, a world that fascinated me.
 
 However, over time, I have changed course but not my horizon, as since I was a child, I have always had a great curiosity for technology, thanks to my love for video games. This curiosity led me to discover the world of Front-end development, where I know my mind finds a safe place to focus, aiming to build value and unique experiences through programming.
 
-And I always remind myself that sometimes, in order to move forward, it is necessary to start from scratch
+And I always remind myself that sometimes, in order to move forward, it is necessary to start from scratch.
+
+
+<img align="right" width="500px" src="https://i.imgur.com/09hCway.png" alt="github-avatar">
 
 ## About me
 
@@ -24,10 +28,13 @@ And I always remind myself that sometimes, in order to move forward, it is neces
 
 ## Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/jimena92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jimena92" height="30" width="40" /></a>
-<a href="https://discord.gg/Jimena#8928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jimena#8928" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jimena92" target="blank"><img align="center" src="https://i.imgur.com/Y3boozU.png" alt="jimena92"/></a>
+<a href="mailto:jimena.flores.92@gmail.com" target="blank"><img align="center" src="https://i.imgur.com/DgHXJpM.png" alt="gmail" /></a>
 </p>
 
+## Stats!
+
+![Jimena's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimena92&show_icons=true&theme=dracula)
 
 
 
