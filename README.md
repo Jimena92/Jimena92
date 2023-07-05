@@ -14,7 +14,7 @@ However, over time, I have changed course but not my horizon, as since I was a c
 And I always remind myself that sometimes, in order to move forward, it is necessary to start from scratch.
 
 
-<img align="right" width="500px" src="https://i.imgur.com/09hCway.png" alt="github-avatar">
+<img align="right" width="450px" src="https://i.imgur.com/09hCway.png" alt="github-avatar">
 
 ## About me
 
