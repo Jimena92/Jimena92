@@ -18,7 +18,7 @@ And I always remind myself that sometimes, in order to move forward, it is neces
 
 ## About me 🌙
 
-- 🧠💻 Mind curious about technology and culture.
+- 🧠💻 Curious mind about technology and culture.
 - 👩🏻‍💻📝 Autodidact.
 - 🎮🎞 Gamer and cinephile.
 - 📚✏️ I like books and writing.
