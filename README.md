@@ -1,17 +1,15 @@
 <div align="center">
 <h2 align="center">Hey! Welcome 👋</h2> 
 </div>
-<img src="https://i.imgur.com/h0yWygu.png" alt="banner-presentation">
+<img src="https://i.imgur.com/cRcEhAu.png" alt="banner-presentation">
 
 ## Let me introduce myself ✨ 
 
-I have always lived among letters and fantastical worlds. Previously, I sought to understand the world, but I decided it was better to understand myself.
+I believe that culture and technology are fundamental pillars for the growth of a society.
 
-I studied Tourism, but life led me to the world of bookstores and publishing for almost eight years, a world that fascinated me.
+I've always lived among words and fantastical worlds. I used to seek to understand the world, but I decided it was better to understand myself.
 
-However, over time, I have changed course but not my horizon, as since I was a child, I have always had a great curiosity for technology, thanks to my love for video games. This curiosity led me to discover the world of QA Testing and Front-end development, where I know my mind finds a safe place to focus, aiming to build value and unique experiences through programming.
-
-And I always remind myself that sometimes, in order to move forward, it is necessary to start from scratch.
+I studied Tourism, but life led me into the world of bookstores and publishing for almost eight years, a world that fascinated me. However, over time, I've changed course but not my horizon, as since childhood, I've always had a great curiosity for technology, thanks to my love for video games. This curiosity led me to discover the world of Front-end development and Testing, where I know my mind finds a safe place to focus, aiming to build value and unique experiences for clients and users.
 
 
 <img align="right" width="450px" src="https://i.imgur.com/09hCway.png" alt="github-avatar">
